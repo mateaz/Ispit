@@ -7,7 +7,9 @@
     "express": "^4.17.1",
     "random": "^2.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "polished": "^3.5.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "radnom": "random"
